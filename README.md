@@ -1,4 +1,4 @@
-# GLASSDOOR REVIEW ANALYSIS
+# Glassdoor Review Analysis
 
 The goal of this is to take job reviews from Glassdoor for Honeywell and perform a summarization on it using LLMs found on Huggingface. 
 
